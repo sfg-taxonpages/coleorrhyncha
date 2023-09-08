@@ -11,7 +11,7 @@ The Coleorrhyncha Species File works to build a comprehensive source for knowled
 
 Explore!
 
-Try searching for species _[Hackeriella veitchi](http://coleorrhyncha.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1171576)_, or start at Genus _[Hackeriella](http://coleorrhyncha.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1171571),_  or Family _[Peloridiidae](http://coleorrhyncha.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1171559)._
+Try searching for species _Hackeriella veitchi_, or start at Genus [Hackeriella]({{app:project_url}}/otu/915535/overview),  or Family [Peloridiidae]({{app:project_url}}/otu/915518/overview).
 
 ## Discover more
 See our [About](about) page for an [overview](about#overview) of the project, its data, and the development [team](about#team), and details about how you can access the data or [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
