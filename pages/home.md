@@ -11,7 +11,7 @@ The Coleorrhyncha Species File works to build a comprehensive source for knowled
 
 Explore!
 
-Try searching for species _Hackeriella veitchi_, or start at Genus [Hackeriella]({{app:project_url}}/otus/915535/overview),  or Family [Peloridiidae]({{app:project_url}}/otus/915518/overview).
+Try searching for species _Hackeriella veitchi_, or start at Genus [Hackeriella](/otus/915535/overview),  or Family [Peloridiidae](/otus/915518/overview).
 
 ## Discover more
 See our [About](about) page for an [overview](about#overview) of the project, its data, the development [team](about#project-development-and-maintenance), and details about how you can [access the data, contribute, contact us, or get help](about#contribute-or-get-help). 
