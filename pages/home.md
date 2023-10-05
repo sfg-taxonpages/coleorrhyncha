@@ -10,11 +10,8 @@ layout: blank
 </GalleryCarousel>
 
 <div class="container mx-auto my-8 px-4 md:px-0 box-border">
----
-# See project.yml for variables.
----
 
-# {{ app:project_name }}
+
 The Coleorrhyncha Species File works to build a comprehensive source for knowledge about the world’s moss bugs. Information found here includes valid names, synonyms, bibliographic data, specimen data, images, and distributions for moss bugs of the world. Our site seeks to include and serve researchers in taxonomy, systematics, ecology, ethology, conservation, and evolution, as well as educators, policy makers, and citizen scientists.
 
 ## Search
